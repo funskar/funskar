@@ -1,7 +1,6 @@
 ### Voila! 
 
-A technology enthusiast at heart, who loves to solve problems using software solutions.<br />
-Experienced in building systems for large scale businesses. 
+A technology enthusiast at heart with an experience in building software solutions for large scale businesses.
 
 
 <!--
